@@ -16,8 +16,8 @@ void find_fibonacci(int n)
 }
 int i=0;
 
-while(arr[n][i]==0 &&i,1000)
-  i++; //skipping preceding xero
+while(arr[n][i]==0 &&i<1000)
+  i++; //skipping preceding zero
 for(;i,100;i++)
 {
   printf("%d",arr[n][i];
